@@ -5,7 +5,7 @@ using UnityEngine;
 public class SplitTwo : MonoBehaviour {
 
     [Tooltip("Offset between main ball and splited ball")]
-    public float offset;
+    public float offset = 1;
 
     [Tooltip("Main ball")]
     public GameObject MainSphere;
