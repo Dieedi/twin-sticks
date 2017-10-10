@@ -25,10 +25,8 @@ GameObject:
   - component: {fileID: 54233348554911040}
   - component: {fileID: 114665862673327976}
   - component: {fileID: 114917684310780078}
-  - component: {fileID: 114616228310178690}
   - component: {fileID: 114686695716417762}
-  - component: {fileID: 114741084162007006}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: RollerBall
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -102,17 +100,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 2
   m_CollisionDetection: 0
---- !u!114 &114616228310178690
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1139342624542874}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d766408d47610fc44aed0ea16b48ac80, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114665862673327976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -137,17 +124,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5455f91866f96a74caa52d96a0a625fd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &114741084162007006
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1139342624542874}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be461b65bc64acc4a807d628f1ca1b41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &114917684310780078
